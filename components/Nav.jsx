@@ -25,7 +25,9 @@ const Nav = () => {
           alt="Promptopia Logo"
           className="object-contain"
         />
+        <p className="logo_text">Promptopia</p>
       </Link>
+
       {/* Mobile Navigation */}
       <div className="sm:flex hidden gap-2">
         {isUserLoggedIn ? (
@@ -62,6 +64,9 @@ const Nav = () => {
           />
         </Link>
       </div>
+
+      {/* Desktop Navigation */}
+
       <div className="sm:hidden flex relative">
         {isUserLoggedIn ? (
           <div className="flex ">
