@@ -20,7 +20,6 @@ const RootLayout = ({ children }) => {
             {children}
           </main>
         </Provider>
-        Provider
       </body>
     </html>
   );
