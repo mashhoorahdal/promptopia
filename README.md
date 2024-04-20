@@ -1,5 +1,5 @@
-### Remaining Tasks
+## Remaining Tasks
 
-[] Implement Search
-[] Implement Click on tag  
-[] Implement View other profiles
+- [] Implement Search
+- [] Implement Click on tag  
+- [] Implement View other profiles
